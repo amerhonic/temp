@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main {
+    width: 100%;
+    
+    background-image: url(https://bootstrapmade.com/demo/templates/Logis/assets/img/hero-bg.png);
+    
+  background-color:#0e1d34 ;
+  height: 75vh;
+  background-size: cover;
+}
+header {
+    width: 100%;
+    display: flex;
+}
+
+.vugla {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.vugla ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.vugla a {
+text-decoration: none;
+color: rgba(255, 255, 255, 0.6);
+}
+nav {
+   display: flex;
+   padding-top: 10px;
+}
+.vugla li {
+    padding: 10px 0px 10px 30px;
+}
+.vugla h1 {
+    padding-top: 20px;
+    color: white;
+}
+nav .joker {
+  border-radius: 4px;
+  display: flex;
+  border: 1px solid;
+  background-color: blue;
+  border-color: transparent;
+  color: #fff;
+  padding: 8px 20px;
+}
+nav .mama {
+    color:#fff;
+}
+.vugla h1 {
+  position: relative;
+  left: -50px;
+}
+ul {
+    list-style-type:;
+}
