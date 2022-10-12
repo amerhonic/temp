@@ -949,7 +949,6 @@
     .nece a {
       font-size:0.9rem;
       margin-top: 0.2rem;
-      
     }
     .vugla {
       width: 100%;
@@ -963,13 +962,15 @@
     }
     .confiscate {
       width: 100%;
+      flex-wrap: wrap;
     }
    .onono {
     height: 70%;
     display: flex;
+    flex-direction: row;
    }
    .themoney {
-    display: flex;
+    
    }
   
   }
